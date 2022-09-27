@@ -1,2 +1,2 @@
-# java-sript
+# java-script
 development
